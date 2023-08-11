@@ -1,2 +1,39 @@
+#Nested-table-2{
+	
+	width:200px;
+	margin:auto;
+	
+}
+#Nested-table-2 th{
+	font-size:20px;
+}
+.change{
+	font-size:20px;
+	
+}
+#Nested-table-1 td{
+	width:200px;
+	padding-left:50px;
+}
+#Nested-table-1{
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:20px;
+}
+#Nested-table-3,th,td{
+	border:1px solid black;
+	margin:10px;	
+}
+#Nested-table-3{
+	width:100%;
+	margin-left:0px;
+}
+#Nested-table-4{
+	width:100%;
+}
+.color{
+	background-color:black;
+	color:white;
+	text-align:center;
+}
 
-/* Your CSS Code here. */
